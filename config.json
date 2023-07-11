@@ -1,0 +1,20 @@
+{
+  "pluginName": "Zoom",
+  "pluginDescription": "Control Zoom",
+  "pluginReadMore": "This action lets you toggle audio and video on Zoom meetings.",
+  "protocolVersion": 1,
+  "actions": [
+    {
+      "actionName": "Toggle Audio",
+      "fileName": "toggle-audio.scpt"
+    },
+    {
+      "actionName": "Toggle Video",
+      "fileName": "toggle-video.scpt"
+    },
+    {
+      "actionName": "All Off",
+      "fileName": "all-off.scpt"
+    }
+  ]
+}
