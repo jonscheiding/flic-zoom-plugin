@@ -4,7 +4,8 @@ A plugin for the Flic Mac app that allows it to toggle audio and video during a 
 
 ## Installation
 
-1. Clone the repo
-2. Copy or symlink the repo directory to `~/Library/Application Scripts/com.shortcutlabs.FlicMac`
+Clone the repo to `~/Library/Application Scripts/com.shortcutlabs.FlicMac`
+
+> Note: you cannot clone the repo somwhere else and then symlink it. The FlicMac app doesn't follow plugin symlinks.
 
 You should then see Zoom as an option under User-Supplied Plugins when setting up a new action for your Flic button.
